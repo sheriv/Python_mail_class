@@ -1,6 +1,6 @@
 # Python_mail_class
 Python class for sending emails in a simple way.
-Supports sending emails to multiple adresses at once.
+Supports sending emails to multiple addresses at once.
 
 Example of sending an email:
 ```
