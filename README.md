@@ -2,7 +2,7 @@
 Python class for sending emails in a simple way.
 Supports sending emails to multiple adresses at once.
 
-Examaple of sending email:
+Examaple of sending an email:
 ```
 my_string = 'Send email with Python'
 MailObject = Mail('smtp.mail.com', 587)
